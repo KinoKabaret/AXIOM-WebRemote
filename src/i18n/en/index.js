@@ -1,0 +1,51 @@
+export default {
+  lang: {
+    language: 'Language',
+    native: 'English',
+    english: 'English',
+    german: 'German'
+  },
+  actions: {
+    failed: 'failed',
+    success: 'success',
+    loading: 'Loading',
+    save: 'Save',
+    set: 'Set',
+    unset: 'Unset',
+    reset: 'Reset',
+    close: 'Close',
+    select: 'Select',
+    toggle: 'Toggle',
+    preset: 'Preset',
+    presets: 'Presets',
+    show: 'Show',
+    hide: 'Hide',
+    on: 'On',
+    off: 'Off',
+    debug: 'Debugger',
+    ping: 'Ping',
+    ping_request_received: 'ping request received',
+    request_valid: 'valid request submitted',
+    request_invalid: 'invalid request submitted',
+    camera_error: 'something is wrong with the camera'
+  },
+  system: {
+    ip: 'Camera IP Address',
+    api: 'API',
+    port: 'Port',
+    uuid: 'UUID',
+    custom_value: 'Custom Value',
+    set_and_close: 'Set & Close',
+    preferences: 'Preferences',
+    fullscreen: 'Full Screen',
+    shutter: 'Shutter',
+    guides: 'Guides',
+    hdr: 'HDR',
+    stops: 'stops',
+    colour: 'Colour',
+    iso: 'ISO',
+    fps: 'FPS',
+    wb: 'WB',
+    menu: 'Menu'
+  }
+}

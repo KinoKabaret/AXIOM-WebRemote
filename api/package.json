@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "dev api for WebRemote",
+  "main": "app.js",
+  "author": "Nothingismagick",
+  "license": "GPL-3",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "run": "node app.js"
+  }
+}
