@@ -80,6 +80,7 @@ Please fork this repo and make pull requests.
 - [ ] Pipe all events into a "console" wrapper in the DEBUG section
 - [ ] Integrate websocket connectivity or regular polling of the Camera to get status updates
 - [ ] Show things like battery, storage etc.
+- [ ] Add Histogram Interpreter (needs websocket)
 - [ ] Make a test-runner
 
 ## License
