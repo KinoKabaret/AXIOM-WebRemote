@@ -1,6 +1,8 @@
-This is the vue.js / quasar version of the webgui for apertus. 
+![AXIOM](https://raw.githubusercontent.com/KinoKabaret/AXIOM-WebRemote/master/src/assets/AXIOM_Logo_Trans.png)
 
-## Just using the pre-built stuff - /dist/spa-mat
+This is the vue.js / quasar version of the webgui for APERTUS° AXIOM BETA.
+
+## Just use the pre-built stuff - /dist/spa-mat
 
 If you just want to test it out locally, download / git clone this repo and then:
 
@@ -71,5 +73,15 @@ $ git config branch.YOUR_BRANCH_NAME.rebase true
 
 Please fork this repo and make pull requests.
 
+## Todo
+- [ ] Create a VMI for web development
+- [ ] Create a VMI for AXIOM development
+- [ ] Finish the internal routes for different settings
+- [ ] Pipe all events into a "console" wrapper in the DEBUG section
+- [ ] Integrate websocket connectivity or regular polling of the Camera to get status updates
+- [ ] Show things like battery, storage etc.
+- [ ] Make a test-runner
+
 ## License
-GPL-3
+This code is ©D.C. Thompson 2018 and licensed under GPL-3. Development sponsored by the [KINOÏT Platform](https://kinokabaret.com) and using the utterly amazing [Quasar Framework](http://quasar-framework.org/).
+
