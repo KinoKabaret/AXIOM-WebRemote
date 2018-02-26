@@ -47,8 +47,6 @@ $ npm install
 $ quasar dev
 ```
 
-You can read more about `vue-cli` here: https://github.com/vuejs/vue-cli/tree/dev/docs
-
 ## Using Downstream
 
 To use downstream (such as in https://github.com/apertus-open-source-cinema/beta-software/tree/master/software/control_daemon/ ) use the following submodule install command from the root folder of apertus-open-source-cinema/beta-software
@@ -60,7 +58,7 @@ $ git submodule add -b master git@github.com:KinoKabaret/apertus-webgui.git /sof
 
 ## Contributing
 
-We recommend the following. It saves a lot of git headaches when working in a team.
+We recommend the following. It saves a lot of git headaches when working in a team. To contribute code suggestions, please fork this repo and make pull requests. If you choose to file issues, please be specific about platform and reproducing your issues.
 
 ```
 $ git config --global branch.autosetuprebase always
@@ -71,7 +69,7 @@ $ git config branch.YOUR_BRANCH_NAME.rebase true
 
 ```
 
-Please fork this repo and make pull requests.
+You can read more about `vue-cli` here: https://github.com/vuejs/vue-cli/tree/dev/docs
 
 ## Todo
 - [ ] Create a VMI for web development
