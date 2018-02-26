@@ -75,8 +75,9 @@ $ git config branch.YOUR_BRANCH_NAME.rebase true
 You can read more about `vue-cli` here: https://github.com/vuejs/vue-cli/tree/dev/docs
 
 ## Todo
-- [ ] Create a VMI for web development
-- [ ] Create a VMI for AXIOM development
+- [X] Create a VM for web development (available now on Syncthing)
+- [ ] Create a VM for AXIOM development
+- [ ] Create a ["Dictionary Importer"](https://github.com/KinoKabaret/AXIOM-WebRemote/issues/5)
 - [ ] Finish the internal routes for different settings
 - [ ] Pipe all events into a "console" wrapper in the DEBUG section
 - [ ] Integrate websocket connectivity or regular polling of the Camera to get status updates
