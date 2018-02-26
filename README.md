@@ -12,9 +12,9 @@ or
 $ cd /dist/spa-mat && php -S 127.0.0.1:8000
 ```
 
-** WARNING: ** You can't just plop the built html into a browser with the "file://" protocol - we're not in the 90's anymore. This is very important.
+**WARNING:** You can't just plop the built html into a browser with the "file://" protocol - we're not in the 90's anymore. This is very important.
 
-** FYI: ** This is intended for modern browsers, I have tested only on Chrome / Mac.
+**FYI:** This is intended for modern browsers, I have tested only on Chrome / Mac.
 
 ## Running the DEV API Server
 
