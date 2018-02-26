@@ -7,11 +7,11 @@ This is the vue.js / quasar version of the webgui for APERTUS° AXIOM BETA.
 If you just want to test it out locally, download / git clone this repo and then:
 
 ```
-$ cd /dist/spa-mat && $ python -m SimpleHTTPServer
+$ cd dist/spa-mat && python -m SimpleHTTPServer
 ```
 or
 ```
-$ cd /dist/spa-mat && php -S 127.0.0.1:8000
+$ cd dist/spa-mat && php -S 127.0.0.1:8000
 ```
 
 **WARNING:** You can't just plop the built html into a browser with the "file://" protocol - we're not in the 90's anymore. This is very important.
