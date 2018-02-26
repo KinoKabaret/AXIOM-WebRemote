@@ -36,7 +36,7 @@ $ sudo apt-get install -y nodejs
 
 ## Building the QUASAR Package
 
-Make sure you have the latest node.js and npm installed. Seriously.  On Ubuntu this will work:
+Make sure you have the latest node.js and npm installed. Seriously.  On Ubuntu this will work (I know because I used these instructions to build a VM using a fresh Ubuntu Mint 16.4.3):
 
 ```
 $ npm install -g vue
@@ -44,6 +44,9 @@ $ npm install -g quasar-cli
 $ git clone git@github.com:KinoKabaret/AXIOM-WebRemote.git
 $ cd AXIOM-WebRemote
 $ npm install
+$ cd api
+$ npm install && node app.js
+$ cd ..
 $ quasar dev
 ```
 
