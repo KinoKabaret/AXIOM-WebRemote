@@ -40,6 +40,7 @@ Make sure you have the latest node.js and npm installed. Seriously.  On Ubuntu t
 $ npm install -g vue
 $ npm install -g quasar-cli
 $ git clone git@github.com:KinoKabaret/AXIOM-WebRemote.git
+$ cd AXIOM-WebRemote
 $ npm install
 $ quasar dev
 ```
