@@ -52,10 +52,10 @@ $ quasar dev
 
 ## Using Downstream
 
-To use downstream (such as in https://github.com/apertus-open-source-cinema/beta-software/tree/master/software/control_daemon/ ) use the following submodule install command from the root folder of apertus-open-source-cinema/beta-software
+To use downstream (such as in https://github.com/apertus-open-source-cinema/beta-software/tree/master/software/http/AXIOM%20WebRemote ) use the following submodule install command from the root folder of apertus-open-source-cinema/beta-software
 
 ```
-$ git submodule add -b master git@github.com:KinoKabaret/apertus-webgui.git /software/control_daemon/
+$ git submodule add -b master git@github.com:KinoKabaret/AXIOM-WebRemote.git /software/control_daemon/
 
 ```
 
